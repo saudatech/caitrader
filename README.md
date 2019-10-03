@@ -12,7 +12,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Name, Phone Number, Email Address, Company Name. The information that we request will be retained by us and used as described in this privacy policy. 
 The app does use third party services that may collect information used to identify you. 
 Link to privacy policy of third party service providers used by the app 
-- <a href="https://www.google.com/policies/privacy/">Google Play Services</a>
 - <a href="https://firebase.google.com/policies/analytics">Firebase Analytics</a>
 - <a href="http://try.crashlytics.com/terms/privacy-policy.pdf">Crashlytics</a> 
 - <a href="https://branch.io/policies/">Branch</a>
